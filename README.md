@@ -8,7 +8,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 | Date          | Urvisha M |   Na Xu   | 
 |-------------- |-----------|-----------|      
-| Nov 12 (Sun)  |           |           |        
+| Nov 12 (Sun)  |           |     X     |        
 | Nov 13 (Mon)  |           |           |          
 | Nov 16 (Thurs)|           |           |       
 | Nov 20 (Mon)  |           |           |           
